@@ -1,4 +1,4 @@
-![Ray Space's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryspc&count_private=true&show_icons=true&theme=ayu-mirage) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Ray Space's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryspc&count_private=true&show_icons=true&theme=ayu-mirage) &nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryspc&theme=ayu-mirage)](https://github.com/ryspc)
 <br> </br>
 <!--- 
