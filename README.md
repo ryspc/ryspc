@@ -1,9 +1,7 @@
 <h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
-I'm Ray.
-</p>
-<p align='center'> Check out my personal site <a href="https://rayspace.co"> here.</a></p>
-<p align='center'>For inquiries, <a href="mailto:hello@rayspace.co">hello@rayspace.co</a> </a>.</p>
+<p align='center'> I'm Ray.</p>
+<p align='center'> I develop satisfying web applications.</p>
+<p align='center'> I have a <a href="https://rayspace.co"> website.</a></p>
 <details>
   <summary align='center'><i>View badges</i></summary>
 
