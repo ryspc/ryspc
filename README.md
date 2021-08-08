@@ -3,7 +3,7 @@
 
 Take a look at my <a href="https://rayspace.co"> website</a> to learn more about my skills, experience, education and portfolio.
 
-I am excited to hear about opportunities to build satisfying products and solutions.</p>
+I'm excited to hear about opportunities to build satisfying products and solutions.</p>
 <details>
   <summary ><i>View badges</i></summary>
 
