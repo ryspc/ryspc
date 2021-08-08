@@ -1,7 +1,7 @@
 <h1 > Hello, I'm Ray </h1>
 <p > I'm a full-stack software developer with a background in UI/UX Design.
 
-Take a look at my <a href="https://rayspace.co"> website.</a> to learn more about my skills, experience, education and portfolio.
+Take a look at my <a href="https://rayspace.co"> website</a> to learn more about my skills, experience, education and portfolio.
 
 I am excited to hear about opportunities to build satisfying products and solutions.</p>
 <details>
