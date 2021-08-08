@@ -1,4 +1,20 @@
-<h1 align='center'> Hi! :wave:</h1>
+<h1 > Hello, I'm Ray </h1>
+<p > I'm a full-stack software developer with a background in UI/UX Design.
+
+Take a look at my <a href="https://rayspace.co"> website.</a> to learn more about my skills, experience, education and portfolio.
+
+I am excited to hear about opportunities to build satisfying products and solutions.</p>
+<details>
+  <summary ><i>View badges</i></summary>
+
+![Ray Space's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryspc&count_private=true&show_icons=true&theme=ayu-mirage) &nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryspc&theme=ayu-mirage)](https://github.com/ryspc)
+<br> </br>
+ 
+</details> 
+
+<!-- 
+ <h1 align='center'> Hi! :wave:</h1>
 <p align='center'> I'm Ray.</p>
 <p align='center'> I develop satisfying web applications.</p>
 <p align='center'> I have a <a href="https://rayspace.co"> website.</a></p>
@@ -9,8 +25,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryspc&theme=ayu-mirage)](https://github.com/ryspc)
 <br> </br>
  
-</details>
-
+</details>  -->
 <!-- BADGES -->
 <!-- ![Ray Space's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryspc&count_private=true&show_icons=true&theme=ayu-mirage) &nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryspc&theme=ayu-mirage)](https://github.com/ryspc)
